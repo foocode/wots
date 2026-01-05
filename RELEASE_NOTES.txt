@@ -1,5 +1,3 @@
-
-
 WOTS Desktop v0.1.0 Beta
 ========================
 Initial creation of release notes!
