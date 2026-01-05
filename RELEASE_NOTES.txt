@@ -1,0 +1,19 @@
+
+
+WOTS Desktop v0.1.0 Beta
+========================
+Initial creation of release notes!
+
+NOTE: NO CROWDSOURCING FEATURES ACTIVE. Your notebook entries are not being shared (even if the options say so).
+                                                                                    
+What's New:
+- Well, everything! Of note:
+-- Full single user experience in place - your notebook is fully functional
+-- Driver tagging with many tags across 4 categories
+-- International character support for driver names when iRacing provides them
+-- Release notes on Home screen
+-- Team support
+-- Local API exposing My Notebook entries for use in overlays and beyond
+
+Still To Come:
+- Backend syncing & crowdsourcing still under testing
